@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "585451313732",
+    "firebase_url": "https://examnsure.firebaseio.com",
+    "project_id": "examnsure",
+    "storage_bucket": "examnsure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585451313732:android:9cab404ac0babbf4",
+        "android_client_info": {
+          "package_name": "helloconnectindia.com.examsure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585451313732-8bnvk6m5155f44nebm567ioivslcfit0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "helloconnectindia.com.examsure",
+            "certificate_hash": "0b001b607b465cb9800789ff8c35464e072463c3"
+          }
+        },
+        {
+          "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy97-mbIOY6cgQWCCoy4y2V9kVnnXPKXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585451313732:android:6b2e1a90fe5bb20e",
+        "android_client_info": {
+          "package_name": "helloconnectindia.com.glogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585451313732-illohfbafcac73qtlqs7chtksi3hds6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "helloconnectindia.com.glogin",
+            "certificate_hash": "0b001b607b465cb9800789ff8c35464e072463c3"
+          }
+        },
+        {
+          "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy97-mbIOY6cgQWCCoy4y2V9kVnnXPKXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585451313732-ujbqlsu3sj1hes1vqn6va5m1lgl95128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
